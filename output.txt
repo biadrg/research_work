@@ -1,0 +1,33 @@
+
+Beijing PRSA: 12 station-clients loaded.
+[round   0] MSE=0.80821 MAE=0.61882 mean_drift=3.4195 comm=3.59 MB
+[round   1] MSE=0.80568 MAE=0.61011 mean_drift=2.1285 comm=7.18 MB
+[round   2] MSE=0.79940 MAE=0.60815 mean_drift=1.7046 comm=10.76 MB
+[round   3] MSE=0.77592 MAE=0.59707 mean_drift=1.5698 comm=14.35 MB
+[round   4] MSE=0.77400 MAE=0.59619 mean_drift=1.4994 comm=17.94 MB
+[round   5] MSE=0.77616 MAE=0.59584 mean_drift=1.4650 comm=21.53 MB
+[round   6] MSE=0.78019 MAE=0.59788 mean_drift=1.4090 comm=25.12 MB
+[round   7] MSE=0.78562 MAE=0.59794 mean_drift=1.3852 comm=28.70 MB
+[round   8] MSE=0.78862 MAE=0.59957 mean_drift=1.3711 comm=32.29 MB
+[round   9] MSE=0.79484 MAE=0.60309 mean_drift=1.3563 comm=35.88 MB
+[round  10] MSE=0.80070 MAE=0.60495 mean_drift=1.3557 comm=39.47 MB
+[round  11] MSE=0.80562 MAE=0.60752 mean_drift=1.3486 comm=43.06 MB
+[round  12] MSE=0.80757 MAE=0.60826 mean_drift=1.3459 comm=46.65 MB
+[round  13] MSE=0.81202 MAE=0.60891 mean_drift=1.3407 comm=50.23 MB
+[round  14] MSE=0.81647 MAE=0.61098 mean_drift=1.3370 comm=53.82 MB
+[round  15] MSE=0.81988 MAE=0.61295 mean_drift=1.3308 comm=57.41 MB
+[round  16] MSE=0.82312 MAE=0.61510 mean_drift=1.3295 comm=61.00 MB
+[round  17] MSE=0.82165 MAE=0.61348 mean_drift=1.3226 comm=64.59 MB
+[round  18] MSE=0.82319 MAE=0.61345 mean_drift=1.3341 comm=68.17 MB
+[round  19] MSE=0.83020 MAE=0.61643 mean_drift=1.3384 comm=71.76 MB
+[round  20] MSE=0.82826 MAE=0.61550 mean_drift=1.3343 comm=75.35 MB
+[round  21] MSE=0.83166 MAE=0.61586 mean_drift=1.3343 comm=78.94 MB
+[round  22] MSE=0.83367 MAE=0.61881 mean_drift=1.3484 comm=82.53 MB
+[round  23] MSE=0.83073 MAE=0.61751 mean_drift=1.3360 comm=86.11 MB
+[round  24] MSE=0.82818 MAE=0.61495 mean_drift=1.3375 comm=89.70 MB
+[round  25] MSE=0.83319 MAE=0.61788 mean_drift=1.3357 comm=93.29 MB
+[round  26] MSE=0.82608 MAE=0.61530 mean_drift=1.3385 comm=96.88 MB
+[round  27] MSE=0.82805 MAE=0.61626 mean_drift=1.3430 comm=100.47 MB
+[round  28] MSE=0.82552 MAE=0.61562 mean_drift=1.3440 comm=104.05 MB
+[round  29] MSE=0.82678 MAE=0.61591 mean_drift=1.3480 comm=107.64 MB
+Saved results/qsann_fed_log.npz and results/qsann_global.pt
