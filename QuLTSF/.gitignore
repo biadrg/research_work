@@ -1,0 +1,7 @@
+# The following subdirectories will be ignored from tracking by git
+checkpoints/
+logs/
+results/
+test_results/
+dataset/
+*.pyc 

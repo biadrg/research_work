@@ -1,0 +1,6 @@
+numpy==1.26.4
+matplotlib
+pandas
+scikit-learn
+torch==2.5.1
+PennyLane==0.37.0
